@@ -12,3 +12,7 @@ https://github.com/SangaManisha/AIML-B3/blob/main/assignnment7.ipynb
 https://github.com/SangaManisha/AIML-B3/blob/main/assignment_8.ipynb
 https://github.com/SangaManisha/AIML-B3/blob/main/assignment_9.ipynb
 https://github.com/SangaManisha/AIML-B3/blob/main/assignment10.ipynb
+
+
+https://github.com/SangaManisha/AIML-B3/blob/main/Aiml_project.ipynb
+
